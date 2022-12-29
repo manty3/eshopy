@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eshopy.app/static/css/main.594b3fd1.css",
+    "main.js": "/eshopy.app/static/js/main.fe731c7f.js",
+    "index.html": "/eshopy.app/index.html",
+    "main.594b3fd1.css.map": "/eshopy.app/static/css/main.594b3fd1.css.map",
+    "main.fe731c7f.js.map": "/eshopy.app/static/js/main.fe731c7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.594b3fd1.css",
+    "static/js/main.fe731c7f.js"
+  ]
+}
